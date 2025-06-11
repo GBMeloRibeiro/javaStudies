@@ -4,101 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5c88d6e-7011-4991-82cd-d1d80c12256a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../School/src/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../School/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exemplo-pacotes/src/Escola/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exemplo-pacotes/src/Escola/Escola.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exemplo-pacotes/src/com/mastersoft/model/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exemplo-pacotes/src/com/mastersoft/model/Exame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exemplo-pacotes/src/com/mastersoft/service/ExameService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exemplo-pacotes/src/lanchonete/Estabelecimento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exemplo-pacotes/src/lanchonete/area/cliente/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exemplo-pacotes/src/lanchonete/atendimento/Atendente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exemplo-pacotes/src/lanchonete/atendimento/cozinha/Almoxarife.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exemplo-pacotes/src/lanchonete/atendimento/cozinha/Cozinheiro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exemplo-pacotes/src/padrao/EstadoBrasileiro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exemplo-pacotes/src/padrao/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exemplo-pacotes/src/padrao/SistemaCadastro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exemplo-pacotes/src/padrao/SistemaIbge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Autodromo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CONTROLE-FLUXO/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CONTROLE-FLUXO/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CONTROLE-FLUXO/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CONTROLE-FLUXO/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CONTROLE-FLUXO/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CONTROLE-FLUXO/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CONTROLE-FLUXO/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CONTROLE-FLUXO/src/main/java/com/mycompany/controle/fluxo/CaixaEletronico.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CONTROLE-FLUXO/src/main/java/com/mycompany/controle/fluxo/bin/com/mycompany/controle/fluxo/CaixaEletronico.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CONTROLE-FLUXO/target/classes/com/mycompany/controle/fluxo/CaixaEletronico.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CONTROLE-FLUXO/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CONTROLE-FLUXO/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CONTROLE-FLUXO/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ContaBanco/src/ContaTerminal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ContaBanco/src/bin/ContaTerminal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EXCECOES/AboutMe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EXCECOES/ExemploExcecoes/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EXCECOES/ExemploExcecoes/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EXCECOES/ExemploExcecoes/.idea/discord.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EXCECOES/ExemploExcecoes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EXCECOES/ExemploExcecoes/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EXCECOES/ExemploExcecoes/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EXCECOES/ExemploExcecoes/ExemploExcecoes.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EXCECOES/ExemploExcecoes/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JAVA-ANATOMIA-CLASSES/src/edu/gabriel/primeirasemana/BoletimEstudantil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JAVA-ANATOMIA-CLASSES/src/edu/gabriel/segundasemana/MinhaClasse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../METODOS/SISTEMA-SMART-TV/src/SmartTv.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../METODOS/SISTEMA-SMART-TV/src/Usuario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TIPOS-VARIAVEIS/src/Operadores.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TIPOS-VARIAVEIS/src/TiposVariaves.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../controle-candidatos/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../controle-candidatos/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../controle-candidatos/.idea/discord.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../controle-candidatos/.idea/git_toolbox_prj.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../controle-candidatos/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../controle-candidatos/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../controle-candidatos/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../controle-candidatos/controle-candidatos.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../controle-candidatos/src/candidatura/ProcessoSeletivo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../debugging-java/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../debugging-java/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../debugging-java/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../debugging-java/.idea/discord.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../debugging-java/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../debugging-java/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../debugging-java/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../debugging-java/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../debugging-java/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../debugging-java/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../debugging-java/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../debugging-java/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../debugging-java/debugging-java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../debugging-java/out/production/debugging-intellij-java/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../debugging-java/src/br/com/dio/debbuging/CalculadoraDeMedias.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../debugging-java/src/br/com/dio/debbuging/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../desafio-contador/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../desafio-contador/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../desafio-contador/.idea/discord.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../desafio-contador/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../desafio-contador/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../desafio-contador/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../desafio-contador/desafioControleFluxo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../desafio-contador/src/contador/ParametrosInvalidosException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../desafio-contador/src/contador/contador.java" beforeDir="false" />
+    <list default="true" id="24b0a8a7-471e-4a5b-9aee-eab55f1479c8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
@@ -116,28 +28,25 @@
   }
 }]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
   "associatedIndex": 2
 }]]></component>
-  <component name="ProjectId" id="2vuRFOJRuXE3jq78RxEn4OQdffm" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2wI5QEYJyun6gpGfK2vO2EjpEA8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Autodromo.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
+    "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/run/media/gabriel/1853-411A/codigo/javaStudies/DIO/javaPOO/pilares-poo/src/Main.java",
     "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
@@ -145,20 +54,19 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.435" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.435" />
       </set>
     </attachedChunks>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d5c88d6e-7011-4991-82cd-d1d80c12256a" name="Changes" comment="" />
-      <created>1744992877851</created>
+      <changelist id="24b0a8a7-471e-4a5b-9aee-eab55f1479c8" name="Changes" comment="" />
+      <created>1745716236575</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1744992877851</updated>
-      <workItem from="1744992919986" duration="692000" />
+      <updated>1745716236575</updated>
+      <workItem from="1745716257154" duration="1000000" />
     </task>
     <servers />
   </component>
