@@ -10,7 +10,7 @@ public class Main {
   public static void main(String[] args) {
     Number valor = Double.valueOF("a1.75");
     System.out.println(valor);
-    String teste = 87564903
+    String teste = 87564903;
          epublic static String
          formatarCep(String cep) throws CepInvalidoException {
       if cep == null || cep.length() != 8){

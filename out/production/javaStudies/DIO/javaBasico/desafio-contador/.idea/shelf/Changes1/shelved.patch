@@ -1,0 +1,14 @@
+Index: src/contador/ParametrosInvalidosException.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/contador/ParametrosInvalidosException.java b/src/contador/ParametrosInvalidosException.java
+new file mode 100644
+--- /dev/null	(date 1743992818000)
++++ b/src/contador/ParametrosInvalidosException.java	(date 1743992818000)
+@@ -0,0 +1,4 @@
++package contador;
++
++public class ParametrosInvalidosException extends Exception {
++}
