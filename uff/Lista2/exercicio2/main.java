@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class main {
   public static void main(String[] args) {
+    System.out.println("Informe dois numeros inteiros: ");
     Scanner scanner = new Scanner(System.in);
     float a = scanner.nextFloat();
     float b = scanner.nextFloat();

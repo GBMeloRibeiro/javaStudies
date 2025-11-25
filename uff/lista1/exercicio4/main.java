@@ -1,7 +1,7 @@
 public class main {
   public static void main(String[] args) {
     java.util.Scanner scanner = new java.util.Scanner(System.in);
-    System.out.print("Informe um valor: ");
+    System.out.print("Informe um valor em Centavos: ");
     int m1real = 0;
     int m50centavos = 0;
     int m25centavos = 0;
