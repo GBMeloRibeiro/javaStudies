@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4c69284-1884-43ef-9c5a-d191ca5719a3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/javaStudies.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../out/production/javaStudies/.idea/javaStudies.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../out/production/javaStudies/DIO/EXCECOES/ExemploExcecoes/ExemploExcecoes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../out/production/javaStudies/DIO/controle-candidatos/controle-candidatos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../out/production/javaStudies/DIO/debugging-java/debugging-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../out/production/javaStudies/DIO/desafio-contador/desafioControleFluxo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../out/production/javaStudies/DIO/javaPOO/Criando a primeira classe/Criando a primeira classe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../out/production/javaStudies/DIO/javaPOO/pilares-poo/pilares-poo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/uff.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lista2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercicio3/exercicio3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercicio3/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercicio3/out/production/exercicio3/exercicio3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lista1/lista1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DIO/EXCECOES/ExemploExcecoes/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DIO/EXCECOES/ExemploExcecoes/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="35d5d6Owg2souLgSBFd51uhQ5lE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/gabri/Documents/GitHub/javaStudies/uff/Lista2/exercicio4/untitled/src/Main.java",
+    "settings.editor.selected.configurable": "settings.sync",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4c69284-1884-43ef-9c5a-d191ca5719a3" name="Changes" comment="" />
+      <created>1763427196211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763427196211</updated>
+      <workItem from="1763427197467" duration="737000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
